@@ -10,7 +10,7 @@
   <a href="https://thalles-oliveira.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/thallessoliveira/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.zentrasistemas.com.br/"><img src="https://img.shields.io/badge/-Zentra-F6C31C?style=flat-square&logoColor=black" alt="Zentra" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ThallesOliver&style=flat-square&color=0F172A&label=profile+views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=thallesdevv&style=flat-square&color=0F172A&label=profile+views" alt="Profile views" />
 </p>
 
 ---
@@ -49,12 +49,12 @@ const thalles = {
     <td width="33%" valign="top">
       <h4>🍦 Sorvetes Rocha Menu</h4>
       <p>Interactive digital menu for a traditional ice cream shop (since 1947): search, filters, real-time opening hours, animations and product photos.</p>
-      <a href="https://cardapio-sorveteria-rocha.vercel.app/">Live</a> · <a href="https://github.com/ThallesOliver/cardapio-sorveteria-rocha">Code</a>
+      <a href="https://cardapio-sorveteria-rocha.vercel.app/">Live</a> · <a href="https://github.com/thallesdevv/cardapio-sorveteria-rocha">Code</a>
     </td>
     <td width="33%" valign="top">
       <h4>🧑‍💻 Portfolio</h4>
       <p>Personal website in Portuguese and English, with light/dark mode and a downloadable resume.</p>
-      <a href="https://thalles-oliveira.vercel.app/">Live</a> · <a href="https://github.com/ThallesOliver/thalles-portfolio">Code</a>
+      <a href="https://thalles-oliveira.vercel.app/">Live</a> · <a href="https://github.com/thallesdevv/thalles-portfolio">Code</a>
     </td>
     <td width="33%" valign="top">
       <h4>⚡ Zentra</h4>
@@ -69,7 +69,7 @@ const thalles = {
 ### `> activity`
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ThallesOliver&theme=midnight-purple&hide_border=true&background=0F172A&ring=F6C31C&fire=F6C31C&currStreakLabel=F6C31C" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=thallesdevv&theme=midnight-purple&hide_border=true&background=0F172A&ring=F6C31C&fire=F6C31C&currStreakLabel=F6C31C" alt="GitHub streak" />
 </p>
 
 ---
